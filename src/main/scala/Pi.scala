@@ -58,7 +58,7 @@ class Listener extends Actor {
 }
 
 object Pi extends App {
-	calculate(nrOfWorkers = 4, nrOfElements = 100000, nrOfMessages = 100000)
+	calculate(nrOfWorkers = 4, nrOfElements = 10000, nrOfMessages = 10000)
 	
 	def calculate(nrOfWorkers: Int, nrOfMessages: Int, nrOfElements: Int){
 		val system = ActorSystem("PiSystem")
