@@ -1,0 +1,8 @@
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/akka-tutorial-build.iml" filepath="$PROJECT_DIR$/.idea_modules/akka-tutorial-build.iml"/>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/akka-tutorial.iml" filepath="$PROJECT_DIR$/.idea_modules/akka-tutorial.iml"/>
+    </modules>
+  </component>
+</project>
